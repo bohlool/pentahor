@@ -23,3 +23,5 @@ data-integration\plugins\steps
 5) Specify location of R using R_HOME environment variable. For windows, it is also needed to put in PATH variable the path to R.dll, for example: C:\R\R-3.0.2\bin\{your operation system}
 
 6) The plugin can be found under Sripting Folder in Design Tab
+
+For more information visit [Dekar Lab](http://dekarlab.de/wp/?p=5)
